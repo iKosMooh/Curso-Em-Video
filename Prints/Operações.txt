@@ -1,0 +1,7 @@
+Caucular a raiz quadrada de um número é o mesmo que realizar a potência dele por meio ex:
+
+Raiz² 81 = 9
+Ou 81**(1/2)
+
+Raiz³ 127 = 5.02
+Ou 127**(1/3)
